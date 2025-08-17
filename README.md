@@ -7,7 +7,8 @@ Projeto simples de um jogo onde o usuário tenta adivinhar um número secreto.
 ## 🚀 Como usar
 
 1. acesse  URL:  
-   [http://127.0.0.1:5500/index.html](http://127.0.0.1:5500/index.html)  
+[Link para o jogo Número Secreto](https://jogo-numero-secreto-plum-ten.vercel.app/)
+   
 
 ---
 
