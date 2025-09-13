@@ -25,3 +25,4 @@ Projeto simples de um jogo onde o usuário tenta adivinhar um número secreto.
 - Execute o projeto em um servidor local para evitar problemas com permissões de arquivos.
 
 ---
+![Visual](./jogo_numero_secreto.png)
